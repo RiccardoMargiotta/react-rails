@@ -72,7 +72,6 @@ var ReactRailsUJS = {
   constructorFromGlobal: constructorFromGlobal,
   constructorFromRequireContext: constructorFromRequireContext,
   constructorFromRequireContextWithGlobalFallback: constructorFromRequireContextWithGlobalFallback,
-  constructorFromRequireContextsWithGlobalFallback: constructorFromRequireContextsWithGlobalFallback,
 
   // Given a Webpack `require.context`,
   // try finding components with `require`,
